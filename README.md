@@ -27,9 +27,6 @@ Built a project that collects environmental data, prepares it for analysis, deve
 ### [Convenience Store Analysis](https://github.com/BBaird77/Convenience-Store-Analysis)
 Built a Databricks and PySpark project that analyzes convenience store transaction and discount data to create weekly product metrics and study sales patterns over time.
 
-### [Web Development Projects](https://github.com/BBaird77/wdd131)
-Built responsive web projects with HTML, CSS, and JavaScript to strengthen presentation, usability, and front-end development skills.
-
 ## Current Focus
 
 - Building stronger portfolio projects for internships
