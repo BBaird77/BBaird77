@@ -19,13 +19,15 @@ Right now, I’m focused on building projects that strengthen my skills in analy
 
 ## Featured Projects
 
-### Wildfire and Air Quality Forecasting
+## Featured Projects
+
+### [Wildfire and Air Quality Forecasting](https://github.com/BBaird77/WildfireProject)
 Built a project that collects environmental data, prepares it for analysis, develops forecasting workflows, and presents results in an interactive dashboard.
 
-### Data Science Portfolio
-Created a Quarto-based portfolio featuring work in data cleaning, exploratory analysis, machine learning, and data storytelling.
+### [Convenience Store Analysis](https://github.com/BBaird77/Convenience-Store-Analysis)
+Built a Databricks and PySpark project that analyzes convenience store transaction and discount data to create weekly product metrics and study sales patterns over time.
 
-### Web Development Projects
+### [Web Development Projects](https://github.com/BBaird77/wdd131)
 Built responsive web projects with HTML, CSS, and JavaScript to strengthen presentation, usability, and front-end development skills.
 
 ## Current Focus
