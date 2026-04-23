@@ -1,12 +1,12 @@
 # Hi, I’m Braedan Baird
 
-I’m a senior studying Data Science with experience in Python, SQL, machine learning, data analysis, and dashboards. I also have a background in HTML, CSS, and JavaScript, which I use to present projects clearly and build simple interactive tools.
+I’m a senior studying Data Science with experience in Python, SQL, machine learning, data analysis, and dashboard development. I also have a background in HTML, CSS, and JavaScript, which helps me present projects clearly and build simple interactive tools.
 
 ## About Me
 
-I’m interested in using data to solve problems, find patterns, and communicate results in a clear way. My coursework and projects have included data cleaning, exploratory analysis, forecasting, machine learning, and dashboard development.
+I’m interested in using data to solve real problems, find meaningful patterns, and communicate results in a clear way. Through coursework and projects, I’ve worked with data cleaning, exploratory analysis, forecasting, machine learning, and dashboard design.
 
-I’m currently building projects that strengthen my skills in analysis, modeling, and technical communication as I prepare for internship opportunities.
+Right now, I’m focused on building projects that strengthen my skills in analytics, modeling, and technical communication as I prepare for data science internship opportunities.
 
 ## Skills
 
@@ -19,20 +19,17 @@ I’m currently building projects that strengthen my skills in analysis, modelin
 
 ## Featured Projects
 
-### Wildfire and Air Quality Forecasting Project
-
-Built a project that collects environmental data, prepares it for analysis, creates forecasting workflows, and presents results in an interactive dashboard.
+### Wildfire and Air Quality Forecasting
+Built a project that collects environmental data, prepares it for analysis, develops forecasting workflows, and presents results in an interactive dashboard.
 
 ### Data Science Portfolio
-
-Created a Quarto-based portfolio with work in data cleaning, exploratory analysis, machine learning, and data storytelling.
+Created a Quarto-based portfolio featuring work in data cleaning, exploratory analysis, machine learning, and data storytelling.
 
 ### Web Development Projects
-
-Built responsive web projects with HTML, CSS, and JavaScript to improve presentation, usability, and front-end development skills.
+Built responsive web projects with HTML, CSS, and JavaScript to strengthen presentation, usability, and front-end development skills.
 
 ## Current Focus
 
-- Building polished portfolio projects for internships.
-- Strengthening SQL and machine learning skills.
-- Improving how I communicate technical work through reports and dashboards.
+- Building stronger portfolio projects for internships
+- Strengthening SQL and machine learning skills
+- Improving how I communicate technical work through reports and dashboards
