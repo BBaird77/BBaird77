@@ -10,9 +10,12 @@ I’m currently building projects that strengthen my skills in analysis, modelin
 
 ## Skills
 
-**Languages:** Python, SQL, JavaScript, HTML, CSS, C#  
-**Tools & Libraries:** pandas, NumPy, scikit-learn, Jupyter, Quarto, Plotly, Streamlit  
-**Other:** Git, GitHub, API integration, data cleaning, forecasting, dashboards
+**Languages:** Python, R, SQL, JavaScript, HTML, CSS, C#  
+**Data & Analytics:** Databricks, pandas, polars, PySpark, tidyverse, Excel  
+**Visualization:** Plotly, Streamlit, Tableau, ArcGIS Pro, ggplot2, Seaborn, Altair  
+**Machine Learning:** scikit-learn, PySpark  
+**Tools:** Git, GitHub, Docker, VS Code, RStudio, Jupyter, Quarto  
+**Other:** API integration, data cleaning, forecasting, dashboard development
 
 ## Featured Projects
 
